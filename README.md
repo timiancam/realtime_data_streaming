@@ -2,7 +2,7 @@
 
 * https://www.youtube.com/watch?v=GqAcTrqKcrY
 * data from: https://randomuser.me/
-* time in video: 9:48
+* time in video: 16:24
 
 # Tags
 
@@ -38,3 +38,4 @@ https://python-poetry.org/docs/#installation
 * Repository metadata.
 * Update .toml.
 * Use professional language and remove personal pronouns.
+* Review and understanding and improvement of code.
